@@ -1,3 +1,5 @@
+This is a forked version of web-testing-bookmarklets that James Bach created here: https://github.com/satisfice/web-testing-bookmarklets
+
 # web-testing-bookmarklets
 This is a set of bookmarklets I use for analyzing web applications for testing purposes.
 
